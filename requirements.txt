@@ -1,0 +1,5 @@
+# Phase I Todo Application Requirements
+# Python 3.10+ standard library only
+
+pytest>=7.4.0
+pytest-cov>=4.1.0
